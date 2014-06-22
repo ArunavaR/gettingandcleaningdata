@@ -7,7 +7,9 @@ This is the first part of the Getting and Cleaning Data Course Project on Course
 
 
 activity_id                 : int   Activity id
-name                        : Factor  Activity Nme
+
+name                        : Factor  Activity Name
+
 
 ## mean and standard dev as defined in features_info.txt
 
@@ -94,8 +96,11 @@ fBodyBodyGyroJerkMag.std.. : num
 ## Tidy Dataset 02 - Below is the description of all codes used in the Tidy Dataset 02.
 
 subject_id                  : int  - Subject Id
+
 activity_id                 : int   Activity id
-name                        : Factor  Activity Nme
+
+name                        : Factor  Activity Name
+
 
 ##  						 alculated averages by subject_id, activity_id and name
 tBodyAcc.mean...X          : num  
