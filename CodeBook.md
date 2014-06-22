@@ -6,8 +6,11 @@ This is the first part of the Getting and Cleaning Data Course Project on Course
 ## Tidy Dataset 01 - Below is the description of all codes used in the Tidy Dataset 01.
 
 
-activity_id                : int  - Activity id
-name                       : Factor - Activity Nme
+activity_id                 : int   Activity id
+name                        : Factor  Activity Nme
+
+## mean and standard dev as defined in features_info.txt
+
 tBodyAcc.mean...X          : num  
 tBodyAcc.mean...Y          : num  
 tBodyAcc.mean...Z          : num  
@@ -90,11 +93,11 @@ fBodyBodyGyroJerkMag.std.. : num
 
 ## Tidy Dataset 02 - Below is the description of all codes used in the Tidy Dataset 02.
 
-subject_id                 : int  - Subject Id
-activity_id                : int  - Activity id
-name                       : Factor - Activity Nme
+subject_id                  : int  - Subject Id
+activity_id                 : int   Activity id
+name                        : Factor  Activity Nme
 
-##  						 averages by subject_id, activity_id and name
+##  						 alculated averages by subject_id, activity_id and name
 tBodyAcc.mean...X          : num  
 tBodyAcc.mean...Y          : num  
 tBodyAcc.mean...Z          : num  
