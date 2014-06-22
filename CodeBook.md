@@ -5,10 +5,6 @@ This is the first part of the Getting and Cleaning Data Course Project on Course
 
 ## Tidy Dataset 01 - Below is the description of all codes used in the Tidy Dataset 01.
 
-
-## Tidy Dataset 02 - Below is the description of all codes used in the Tidy Dataset 02.
-
-
 activity_id                : int  - Activity id
 name                       : Factor - Activity Nme
 tBodyAcc.mean...X          : num  
